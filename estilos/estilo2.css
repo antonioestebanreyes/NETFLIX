@@ -1,0 +1,86 @@
+video{
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    z-index: -1;
+    width: 108%
+  }
+
+  div footer img{
+    position:absolute;
+    left: 0px;
+    z-index: -1;
+    width: 100%;
+    height: 400px;
+    opacity: 0.2;
+  }
+  a{
+  text-decoration: none;
+  color: white;
+  padding-top: 23px;
+  }
+  #contenedor{
+    width: 100%; 
+    height: 100px;
+    background: black;
+    margin-bottom:12px;
+  
+  }
+  .menu{
+background:black ;
+color:white;
+position: fixed;
+width: 100%;
+  }
+  .menu div h4{
+    color: red;
+  }
+.seccionDePeliculasDeHeroos{
+margin-top: 170px;
+margin-left: 16px;
+
+  }
+.seccionDePeliculasDeSeries{
+  margin-top: 12px;
+  margin-left: 16px;
+
+  }
+  .seccionDePeliculasDeAnime{
+    margin-top: 12px;
+    margin-left: 16px;
+  }
+.seccion1{
+  margin-top: 170px;
+  margin-bottom: 33px;
+ 
+}
+  img{
+    width: 100%;
+    height: 190px;
+  }
+
+  img:hover{
+    border-radius: 8px;
+    border: solid 2px white;
+    width: 95%;
+  }
+
+  body{
+      background: black;
+      color: white;
+  }
+
+  div section div button{
+    margin-left: 12px;
+  }
+.Reproduccio{
+margin-left: 30px;
+width: 100%;
+  }
+
+  .contenedor4{
+margin-top: 56px;
+  }
+  .contenedor4 footer div{
+    margin-bottom: 23px;
+  }

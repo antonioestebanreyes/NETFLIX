@@ -1,0 +1,63 @@
+.contenedor{
+height: 50%;
+}
+.title{
+color: red;
+}
+.subtitulo{
+    color:white;
+    
+}
+.pie{
+    border: solid 2px grey;
+    width: 30%;
+    height: 100%;
+    margin-left: 500px;
+}
+.pie2{
+    font-size: 23px;
+}
+ p:hover{
+   color: white;
+}
+svg{
+  height: 100%; 
+  font-size: 200px;
+}
+figcaption:hover{
+   color: white;
+}
+body{
+    background: black;
+   
+}
+.div{
+    height:300px;
+}
+img{
+    height:60%; 
+    width:90%;
+}
+
+figcaption {
+    text-align:center;
+    font-size:22px;
+    text-align: center;
+}
+img:hover{
+border: solid 2px white;
+}
+.svg{
+    margin-bottom: 120px;
+  
+}
+
+svg:hover{
+   background: rgb(58, 57, 57);
+}
+div .pie{
+    border: solid 3px rgb(85, 80, 80);
+    width: 30%;
+    height: 100%;
+    margin-left:32%;
+}
